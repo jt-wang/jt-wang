@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Jingtao Wang's GitHub stats](https://github-readme-stats-jtwang.vercel.app/api?username=jt-wang&hide_rank=true&hide=stars,contribs&include_all_commits=true)
 <!--
 **jt-wang/jt-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
